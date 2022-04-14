@@ -1,0 +1,56 @@
+.wow {
+  width: 100px;
+}
+/* navigation bar*/
+.gray{
+  background-color: #7D8491;
+}
+.blue{color:white;
+       font-size: 20px;
+     }
+.nav-item{
+      font-size: 12px;
+  color: #28536b;
+}
+/*Jumbotron*/
+.yellowbox{ 
+  color:#28536b;
+  background-color: #EAC435;
+   }  
+.dark{
+  font-size: 20px;
+}
+.display-4{
+  font-size: 50px;
+  font-family: Lucida handwriting, Cursive;
+  color:#0e9594;
+}
+.bottom{
+  margin-bottom: 22px;
+}
+.td{
+  height: 75%;
+  width: 50%;
+}
+/*list*/
+
+.inline{
+  display: inline;
+}
+.head{
+  
+  font-size:22px;
+  border:#BFC0C0;
+  padding: 10px;
+}
+.button{
+  background:#7D8491;
+  border:#7D8491;
+  padding: 5px;
+}
+.box{
+  background-color:lightgray;
+  padding: 10px;
+  border:#7D8491;
+  
+}
